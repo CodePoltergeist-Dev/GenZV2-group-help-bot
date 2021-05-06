@@ -1,1 +1,1 @@
-web: python3 -m GenZ_start
+web: python3 -m tg_bot
