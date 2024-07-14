@@ -1,7 +1,7 @@
-# GenZ-V2 Group Help Bot
+# GenZ-V2 Group Help Bot (Telegram)
 
 
-##For Heroku!
+For Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CodePoltergeist-Dev/GenZV2-group-help-bot)
 
